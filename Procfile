@@ -1,1 +1,1 @@
-web gunicorn bmes:__init__
+web gunicorn bmes:__main__
