@@ -1,1 +1,1 @@
-web gunicorn runserver:__main__
+web gunicorn runserver:app
