@@ -3,4 +3,4 @@ Built a building material e-store by leveraging python basic building blocks and
 
 1)scree-shot-1: Catalogue
 
-<img src = 'images/'/>
+<img src = 'images/bmes1.PNG'/>
